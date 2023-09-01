@@ -10,4 +10,4 @@ CPR
 
 ## Usage
 
-Check [cpr_proxy_manager/example.cpp](cpr_proxy_manager/example.cpp) for example usage.
+Check [cprpm/example.cpp](cprpm/example.cpp) for example usage.
