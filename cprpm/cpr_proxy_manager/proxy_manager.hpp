@@ -168,7 +168,6 @@ namespace cpr_proxy_manager {
                   this->ip = ip;
                   this->port = port;
                   this->protocol = protocol;
-                  this->ping = ping;
                   this->creds.user_creds = true;
                   this->creds.username = username;
                   this->creds.password = password;
